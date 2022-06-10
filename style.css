@@ -4,6 +4,11 @@
     font-family: serif;
 }
 
+@font-face {
+  font-family: Arial;
+  src: url(arial.tff);
+}
+
   #topblock{
     width: 50%; 
     margin: auto; 
