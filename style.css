@@ -5,8 +5,13 @@
 }
 
 @font-face {
-  font-family: Arial;
+  font-family: arial;
   src: url(arial.tff);
+}
+
+@font-face {
+  font-family: Helvetica;
+  src: url(Helvetica.tff);
 }
 
   #topblock{
