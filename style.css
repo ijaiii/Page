@@ -4,46 +4,62 @@
     font-family: serif;
 }
 
-  #img {
-    width: 200px;
-    border-radius: 10px;
-    height: auto;
-  }
-
-  #center{
-    padding-top: 5%;
-    margin: auto;
-    width: 80%;
-    height: 80%; 
-  }
-
-  #leftup{
+  #topblock{
+    width: 50%; 
+    margin: auto; 
+    height: 20%; 
     font-family: Helvetica;
-    float:left;
-    text-align: left;
-    padding-left: 50px;
-    padding-top: 10px;
+  }
   
+  #nPos{
+    padding-left: 60%; 
+    padding-top:5%
   }
 
-  #pf{
-    font-family: Helvetica;
-    float: right;
-    text-align: right;
-    padding-right: 50px;
-    padding-top: 20px;
+  #nMargin{
+  margin:0px; 
   }
 
-  #titles{
-    padding-top: 15px;
-    color: rgb(29, 29, 29);
+  #bodytext{
+    width: 50%; 
+    height: auto;
+    margin: auto; 
+    margin-top: 2%;
+    padding-left: 2%;
+  }
+
+  .titles{
+    font-family: arial;
+    border-bottom: 2px solid black;
+    margin: 0px;
+    max-width: 150px;
+    padding-top: 10px;
+  }
+
+  .words{
+    font-family: arial;
+    line-height:20px;
+    margin: 0;
+  }
+  .bullets{
+    font-family: arial;
+    line-height:24px;
+  }
+  .roundedtop{
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .imgstyle{
+
+  }
+
+  .plineheight{
+     
+    font-family: arial;
+    margin: 0px;
     
   }
-  #pargrph{
-
+  
+  .margintop{
+    padding-top: 3%;
   }
-
-  #info{
-
-  }
-
